@@ -1,0 +1,27 @@
+[info]
+author = Dalena Tran
+name = Gravity
+title = Gravity
+icon = 
+
+[paths]
+assets_dirs = apps_dev/Gravity;
+blend_dirs = apps_dev/Gravity;
+blender_exec = blender
+build_dir = apps_dev/Gravity
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = update
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_prefix = 
+override = 
+
